@@ -15,3 +15,6 @@ Aplicação web simples para organizar tarefas do dia a dia.
 
 ## ▶️ Como usar
 Abra o arquivo `index.html` no navegador.
+
+## 🌐 Projeto online
+Acesse aqui: https://seuusuario.github.io/todo-app/
